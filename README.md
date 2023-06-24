@@ -56,7 +56,7 @@ This project can be implemented to track record of different student enrolled in
 ![6th](https://github.com/Priyabrata111/Student-Enrollment-Form/assets/70628777/7c4b031f-9af4-4350-b4af-812a0619c63a) 
 
 # Project status
-Sucessfully Completed
+Successfully Completed
 # Sources
 - Introduction to JsonPowerDB - V2.0 : https://careers.login2explore.com/course/view.php?id=14 
 - JPDB API Command Reference : https://login2explore.com/jpdb/docs.html 
